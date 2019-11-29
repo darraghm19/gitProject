@@ -6,3 +6,4 @@ print (now.strftime("%A, %d-%m-%Y : %H:%M"))
 
 print ("Test ")
 
+print ("Test 2")
